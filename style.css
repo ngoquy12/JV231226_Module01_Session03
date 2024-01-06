@@ -1,0 +1,55 @@
+h2 {
+  color: blue;
+}
+
+* {
+  color: brown;
+}
+
+h1 {
+  color: rgb(34, 255, 0);
+}
+
+p {
+  color: blueviolet;
+}
+
+#paragraph-1 {
+  color: brown;
+}
+
+.paragraph-2 {
+  font-size: 30px;
+}
+
+.text-red {
+  color: red;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.list-cource {
+}
+
+.cource-item:first-child {
+  color: yellow;
+}
+
+.cource-item:last-child {
+  color: rgb(255, 102, 0);
+}
+
+.cource-item:nth-child(2) {
+  color: rgb(0, 255, 30);
+}
+
+.cource-item:nth-child(3) {
+  color: rgb(0, 17, 255);
+}
+
+.heading {
+  text-align: center;
+  background-color: aqua;
+}
